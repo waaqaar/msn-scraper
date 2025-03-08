@@ -1,0 +1,14 @@
+{
+    "url": "https://assets.msn.com/service/news/feed/pages/channelfeed?InterestIds=Y_3304d105-5132-427d-b027-2f472f2fac07&activityId=4458513F-D26F-49A2-AD4A-B8F6966EE6C9&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&cm=en-us&it=web&memory=8&ocid=social-peregrine&scn=ANON&timeOut=2000&user=m-1A6C148FF37C6B553A280126F22E6A9B",
+    "method": "GET",
+    "headers": {
+        "accept": "*/*",
+        "cookie": "_C_ETH=1; USRLOC=; MUID=1A6C148FF37C6B553A280126F22E6A9B; _EDGE_S=F=1&SID=0CDA7AE905A56E491C1E6F4004206F8A; _EDGE_V=1",
+        "origin": "https://www.msn.com",
+        "referer": "https://www.msn.com/",
+        "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/343.0.695551749 Mobile/15E148 Safari/604.1",
+        "sec-ch-ua": "\"Google Chrome\";v=\"110\", \"Not-A.Brand\";v=\"99\", \"Chromium\";v=\"110\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"iOS\""
+    }
+}

@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+debug.log
+error.log
+
+# Environment variables & Secrets
+.env
+*.env
+config/settings_local.py
+
+# Playwright & Selenium related files
+playwright/.cache/
+playwright/.local-chromium/
+selenium/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Docker related files
+docker-compose.override.yml
+.dockerignore
+
+# macOS system files
+.DS_Store
+Thumbs.db
+
+# Generated documentation
+docs/_build/
+site/
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
